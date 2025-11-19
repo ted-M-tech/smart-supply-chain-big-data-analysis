@@ -1,0 +1,10 @@
+# Database Connection Settings
+DB_HOST=localhost
+DB_NAME=final_project
+DB_USER=postgres
+DB_PASSWORD=
+DB_PORT=
+
+DATABASE_URL=postgres://user:{password}@localhost/final_project
+SECRET_KEY=supersecretkey
+DEBUG=True
